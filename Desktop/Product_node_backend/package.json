@@ -11,7 +11,7 @@
     "crud",
     "app"
   ],
-  "author": "raihan",
+  "author": "nizam",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
